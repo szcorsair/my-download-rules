@@ -58,7 +58,6 @@ payload:
 - DOMAIN,cache.nixos.org
 - DOMAIN,dl.flathub.org
 - DOMAIN,download.cdp.bethesda.net
-- DOMAIN,content.cdp.bethesda.net
 - DOMAIN,lion.secure.dyn.riotcdn.net
 - DOMAIN,lol.secure.dyn.riotcdn.net
 - DOMAIN,ks-foundation.secure.dyn.riotcdn.net
