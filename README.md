@@ -4,6 +4,8 @@
 
 `my-overseas-download.yaml` 是规则清单的维护入口。通过 `main` 分支的固定文件地址订阅，客户端可定期拉取更新。
 
+清单优先收录可确认用于文件传输的端点和专用软件镜像。共用的网页、API、索引、鉴权、流媒体 CDN 和通用代理服务遵循主配置的其他规则。
+
 ```yaml
 rule-providers:
   overseas-download:
